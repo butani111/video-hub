@@ -4,7 +4,7 @@ import { AiOutlineCloudUpload } from 'react-icons/ai';
 
 const Upload = () => {
   return (
-    <Container w={'container.xl'} h="100vh" p={'16'}>
+    <Container w={['full', 'container.xl']} h="100vh" p={'16'}>
       <VStack color={'purple.500'} h="full" justifyContent={'center'}>
         <AiOutlineCloudUpload size={'10vmax'} />
 
