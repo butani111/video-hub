@@ -5,6 +5,8 @@ This is website is video store. It is built using ReactJS.
 
 <img src="https://user-images.githubusercontent.com/79257444/211157108-bcbaa8ba-b9e9-40b6-9456-47daaf6aaa0b.png" width="48%">
 
+Try Youself: https://video-app-sb-apps.vercel.app/
+
 ## Technologies Used
 HTML | SASS | Javascript | ReactJS | Chakra UI
 #
